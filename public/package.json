@@ -26,6 +26,6 @@
   "dependencies": {
     "jquery-match-height": "^0.7.2",
     "materialize-css": "^1.0.0-rc.1",
-    "node-sass": "^4.9.0"
+    "node-sass": "^7.0.0"
   }
 }
